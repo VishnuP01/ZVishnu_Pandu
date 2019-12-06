@@ -8,6 +8,7 @@
 							<Input/>
 							<Button icon="sap-icon://microphone" press="fnPressMic"/>
 						</HBox>
+						<Text text="hello 123" />
 					</content>
 				</Page>
 			</pages>
