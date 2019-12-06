@@ -23,7 +23,7 @@ sap.ui.define([
             if (vFinal != "") {
                 alert(vFinal);
             }
-		 }
+		 } 
 
 		},
 		fnPressMic:function(obj){
