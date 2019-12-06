@@ -7,7 +7,7 @@ sap.ui.define([
 		onInit: function () {
 			alert("123");
 			alert("hi");
-			debugger;
+			debugger; 
 			if('webkitSpeechRecognition' in window){
         	   this.recognition = new webkitSpeechRecognition() ;
     	  }else{
