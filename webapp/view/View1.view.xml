@@ -10,6 +10,7 @@
 						</HBox>
 						<Text text="hello 123" />
 						<Text text="hello 345" />
+						<Button text="Press"/>
 					</content>
 				</Page>
 			</pages>
