@@ -5,6 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("VoiceText.VoiceText.controller.View1", {
 		onInit: function () {
+			alert("546");
 			debugger;
 			if('webkitSpeechRecognition' in window){
         	   this.recognition = new webkitSpeechRecognition() ;
